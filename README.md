@@ -1,2 +1,1 @@
-# ToDo-App
-A Full stack Todo App 
+This is the updated README with both local and remote changes combined.
