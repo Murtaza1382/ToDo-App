@@ -48,7 +48,7 @@ function SignIn() {
               Forget Password
             </a>
             <p>
-              Already Have an Account?
+              Do not have an Account?
               <a href="#" className="ml-2 text-blue-900 font-semibold">
                 Sign Up
               </a>
